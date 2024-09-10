@@ -1,4 +1,6 @@
-'''Circle of strings:
+'''
+Problem of the Day 1 - 10th Sep 2024
+Circle of strings:
 Given an array arr of lowercase strings, determine if the strings can be chained together to form a circle.
 A string X can be chained together with another string Y if the last character of X is the same as the first character of Y. 
 If every string of the array can be chained with exactly two strings of the array(one with the first character and the second with the last character of the string), 
